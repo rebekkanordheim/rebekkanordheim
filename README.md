@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my Portfolio 2
+- 🔭 I’m currently working on a React project 
 - 🌱 I’m currently learning React
 - 🤔 I’m looking for help with finding a FrontEndDev/UI or UX design job
 - 💬 Ask me about UI/UX design
